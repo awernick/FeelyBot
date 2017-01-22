@@ -24,5 +24,5 @@ Facebook Authentication, Managing multiple Facebook users through OAuth, IBM Wat
 ### What's next for FeelyBot
 In the future, we would like to expand the FeelyBot's capabilities by taking advantage of the new Jibo API that includes better support for motion detection, and facial recognition to provide support for different users and automatically customize FeelyBot's personality for each one.
 
-
+### Resources
 [Devpost](https://devpost.com/software/feelybot)
