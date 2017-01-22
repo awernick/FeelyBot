@@ -1,3 +1,4 @@
+# FeelyBot
 ![iOS Screenshot](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/443/681/datas/gallery.jpg)
 
 ### Inspiration
@@ -24,3 +25,4 @@ Facebook Authentication, Managing multiple Facebook users through OAuth, IBM Wat
 In the future, we would like to expand the FeelyBot's capabilities by taking advantage of the new Jibo API that includes better support for motion detection, and facial recognition to provide support for different users and automatically customize FeelyBot's personality for each one.
 
 
+[Devpost](https://devpost.com/software/feelybot)
