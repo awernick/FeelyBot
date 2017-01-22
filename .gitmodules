@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/minhhoangtcu/MLHPrimeMeme.git
+[submodule "client"]
+	path = client
+	url = git@github.com:awernick/MLHPrimeMemeJibo.git
